@@ -17,6 +17,8 @@ A Responsive Web built on ReactJS.
 
 ## DEMO
 
+Open the <a href="https://reactwebproject.netlify.app/">LIVE DEMO</a>
+
 <img src="demo.gif">
 
 
