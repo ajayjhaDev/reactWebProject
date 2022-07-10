@@ -10,7 +10,7 @@ A Responsive Web built on ReactJS.
 - 🌐 ReactJS | Bootstrap | CSS | HTML
 
 
-## Dependencies 
+## Dependencies installed
 
 - bootstrap , react , react-dom , react-router-dom , react-scripts
 
