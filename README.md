@@ -17,7 +17,7 @@ A Responsive Web built on ReactJS.
 
 ## DEMO
 
-<img src="https://imgflip.com/gif/6mbpq0">
+<img src="demo.gif">
 
 
 
