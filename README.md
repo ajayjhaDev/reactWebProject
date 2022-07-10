@@ -5,7 +5,7 @@
 A Responsive Web built on ReactJS.
 
 
-## ⚒️TechStack
+## ⚒️Tech Stack
 
 - 🌐 ReactJS | Bootstrap | CSS | HTML
 
